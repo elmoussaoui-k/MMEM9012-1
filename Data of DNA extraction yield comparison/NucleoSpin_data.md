@@ -1,4 +1,4 @@
-# NucleoSpin kit DNA extraction data
+# NucleoSpin DNA extraction data
 
 
 

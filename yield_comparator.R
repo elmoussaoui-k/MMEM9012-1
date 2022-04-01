@@ -1,6 +1,6 @@
-#|--------------------------------------------------|#
-#| DNA EXTRACTION EFFICIENCY : statistical analysis |#
-#|--------------------------------------------------|#
+#|--------------------------------------------------------|#
+#| DNA EXTRACTION YIELD COMPARATOR : statistical analysis |#
+#|--------------------------------------------------------|#
 
 ##### PART. I : PACKAGE MANAGEMENT #####
 # 1.1. Install required extra packages
